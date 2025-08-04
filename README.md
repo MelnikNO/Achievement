@@ -8,9 +8,9 @@
 
 ## Hackathons
 
-[IT Purple Hack]()
+[IT Purple Hack](https://github.com/MelnikNO/Achievement/blob/main/Мельник%20Наталья_purple.pdf)
 
-[БЕЗУМhack]()
+[БЕЗУМhack](https://github.com/MelnikNO/Achievement/blob/main/Мельник%20Наталья_безумхак.pdf)
 
 ## Olympiad
 
